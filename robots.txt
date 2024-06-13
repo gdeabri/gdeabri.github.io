@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gdeabri.github.io/sitemap/sitemap.txt
